@@ -1,6 +1,0 @@
-edit-me-2.txt
-
-now has been edited
-
-twice
-
